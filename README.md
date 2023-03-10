@@ -1,2 +1,2 @@
-# homebrew-leap.cdt
-homebrew tap for AntelopeIO.cdt
+# homebrew-antelopeio.cdt
+homebrew tap for antelopeio.cdt
