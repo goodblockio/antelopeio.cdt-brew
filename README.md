@@ -1,2 +1,2 @@
-# homebrew-eosio.cdt
-homebrew tap for eosio.cdt
+# homebrew-leap.cdt
+homebrew tap for AntelopeIO.cdt
